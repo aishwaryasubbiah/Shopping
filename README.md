@@ -19,5 +19,8 @@
 # Data refresh on periodic time
 Using Redis BullMQ, cron job can be scheduled to refresh the data periodically
 
+# Error Logging
+Winston from npm package can be used for logging the errors. Logs can be stored in separate file or in db.
+
 # Schema Diagram
 https://dbdiagram.io/d/Shopping-666fd85ca179551be608cae3
